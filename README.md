@@ -1,2 +1,2 @@
 # Multithreaded-sorting
-This program sorts large number of integers provided through a given text file using merge sort algorithm, in multithreaded fashion.
+This program sorts large number of integers provided through a given text file by merge sort algorithm using multithreaded programming and write them on another text file.
